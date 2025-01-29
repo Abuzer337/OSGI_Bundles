@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1738128901917
+Build-Jdk: 11.0.0.2
+Built-By: Yfim
+Bundle-ManifestVersion: 2
+Bundle-Name: osgi-python-runner
+Bundle-SymbolicName: osgi.python.runner
+Bundle-Version: 1.0.0
+Created-By: Apache Maven Bundle Plugin
+Export-Package: osgi.python;version="1.0.0"
+Import-Package: org.osgi.framework;version="[1.8,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-4.2.0.201903051501

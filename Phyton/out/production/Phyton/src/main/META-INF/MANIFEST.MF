@@ -1,0 +1,6 @@
+Bundle-ManifestVersion: 2
+Bundle-Name: Python OSGi Runner
+Bundle-SymbolicName: osgi.python.runner
+Bundle-Version: 1.0.0
+Bundle-Activator: osgi.python.runner.PythonRunnerActivator
+Import-Package: org.osgi.framework

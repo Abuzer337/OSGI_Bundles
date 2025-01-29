@@ -1,0 +1,9 @@
+com\example\osgi\snake\SnakeServiceImpl.class
+com\example\osgi\snake\SnakeCommand.class
+com\example\osgi\snake\SnakeGame.class
+com\example\osgi\snake\SnakePanel$1.class
+com\example\osgi\snake\SnakePanel$Point.class
+com\example\osgi\snake\SnakePanel$Direction.class
+com\example\osgi\snake\SnakePanel.class
+com\example\osgi\snake\SnakeService.class
+com\example\osgi\snake\SnakePanel$MyKeyAdapter.class

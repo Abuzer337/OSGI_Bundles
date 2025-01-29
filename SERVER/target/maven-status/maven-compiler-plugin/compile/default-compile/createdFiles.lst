@@ -1,0 +1,4 @@
+com\example\osgi\server\HttpUtils.class
+com\example\osgi\server\ServerActivator.class
+com\example\osgi\server\InfoServlet.class
+com\example\osgi\server\SnakeInfoServlet.class
