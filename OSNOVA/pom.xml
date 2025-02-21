@@ -27,8 +27,8 @@
 
         <dependency>
             <groupId>org.osgi</groupId>
-            <artifactId>osgi.cmpn</artifactId> <!-- Это для OSGi Compendium -->
-            <version>6.0.0</version> <!-- Можно использовать более свежую версию -->
+            <artifactId>osgi.cmpn</artifactId>
+            <version>6.0.0</version>
             <scope>provided</scope>
         </dependency>
 
